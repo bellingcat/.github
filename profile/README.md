@@ -37,9 +37,7 @@ For bitesize tasks, have a look through our [Open Issues](https://github.com/sea
 Looking for a big challenge, try our [Open Questions](https://github.com/bellingcat/open-questions) :warning: These are tricky long-term projects that could be really valuable for open source investigators.
 
 > [!IMPORTANT]
-> We suggest taking a look at our short [contribution page&nbsp;:book:](https://github.com/bellingcat/.github/blob/main/CONTRIBUTING.md) and our [community code of conduct&nbsp;:shield:](https://github.com/bellingcat/.github/blob/main/CODE_OF_CONDUCT.md) for advice on how to get started and the standards that we share.
-> 
-> We don't have a full contribution guide yet, but we're working on it and will share it here when it's ready. :construction:
+> Take a look at our [contribution guide :book:](https://github.com/bellingcat/.github/blob/main/CONTRIBUTING.md) and our [community code of conduct :shield:](https://github.com/bellingcat/.github/blob/main/CODE_OF_CONDUCT.md) for advice on how to get started and the standards that we share.
 
 
 ### Get social :speech_balloon:
