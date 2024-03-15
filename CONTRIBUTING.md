@@ -21,7 +21,7 @@ We like to think of our tools as sitting on a ladder that balances accessibility
 0. Editable Python script
 0. Library API
 0. Command Line Interface
-0. Jupyter Notebook/Google Collab
+0. Jupyter Notebook/Google Colab
 0. Full User Interface
 
 **An editable script** is where many tools start life, and these sit at the least accessible and lowest effort end of the ladder. To use tools at this stage of development, a user must have Python installed on their machine, some technical expertise and confidence to configure the script correctly. A script is a great prototype for a tool, but will probably only find a narrow technical audience.
@@ -30,7 +30,7 @@ We like to think of our tools as sitting on a ladder that balances accessibility
 
 **A Command Line Interface (CLI)** provides a significant step up in terms of accessibility, but still requires a user to have Python installed on their machine. [Research by Bellingcat](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) suggests that a significant part of the online researcher community is unable to use the command line. CLI tools don’t require any coding experience to use, but do require technical confidence with the command line. 
 
-**[A Jupyter Notebook](https://jupyter.org/)** can be an effective way to create a simple front-end for Python (and some CLI) tools. Using a notebook as an interface to a Library API makes it much easier for a non-technical user to access a tool, particularly if the notebook is used through a service like [Google Collab](https://colab.research.google.com/) (or self-hosted with [Binder](https://mybinder.org/)). There are ways to create simple user interfaces for notebooks to make using them even more accessible.
+**[A Jupyter Notebook](https://jupyter.org/)** can be an effective way to create a simple front-end for Python (and some CLI) tools. Using a notebook as an interface to a Library API makes it much easier for a non-technical user to access a tool, particularly if the notebook is used through a service like [Google Colab](https://colab.research.google.com/) (or self-hosted with [Binder](https://mybinder.org/)). There are ways to create simple user interfaces for notebooks to make using them even more accessible.
 
 **A Graphical User Interface (GUI)** is one of the best ways to make a tool accessible to the most people, but it can require a lot of extra development work. Before building a user interface, consider if a notebook would be a more suitable implementation. We tend to prefer web apps over desktop apps as we think they are generally more accessible. We don’t strongly advocate a particular front-end framework, but think that [Streamlit](https://streamlit.io/) is pretty good - it’s a pure Python way to quickly build a web app.
 
