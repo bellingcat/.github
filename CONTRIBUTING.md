@@ -6,6 +6,8 @@ Contributions to Bellingcat projects are released to the public under the projec
 
 Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+We welcome contributions of all sizes, from typo fixes to complete refactors. However, for larger contributions or significant changes to our projects, please reach out to our team by opening an issue or by emailing [contact-tech@bellingcat.com](mailto:contact-tech@bellingcat.com); we'll be able to provide early-stage feedback and give advice on how to structure your changes for the best chance of your PR(s) being accepted.
+
 ## Considerations for Tool Development :thinking:
 
 ### What programming language should be used?
